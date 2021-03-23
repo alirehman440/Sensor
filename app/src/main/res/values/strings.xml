@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Sensor</string>
+    <string name="sensor">Sensor</string>
+    <string name="check_api">Api Testing</string>
+    <string name="gyroscope">Gyroscope: </string>
+    <string name="accelorometer">Accelerometer: </string>
+    <string name="anyBtn">Press any Button</string>
+    <string name="gesture">Gesture: </string>
+    <string name="device_name">Device Name: </string>
+    <string name="app_version">App Version: </string>
+    <string name="x">X: </string>
+    <string name="y">Y: </string>
+    <string name="z">Z: </string>
+    <string name="loading">Loading...</string>
+</resources>
